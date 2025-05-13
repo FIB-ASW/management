@@ -30,7 +30,7 @@
         "carlesf": 0,
         "professor-asw": 1
     },
-    "commit_merges": 0,
+    "commit_merges": 1,
     "longest_commit_streak_per_user": {
         "carlesf": 0,
         "professor-asw": 1
@@ -57,10 +57,10 @@
         },
         "merged_per_member": {
             "carlesf": 0,
-            "professor-asw": 0
+            "professor-asw": 1
         },
-        "merged": 0,
-        "not_merged_by_author": 0,
+        "merged": 1,
+        "not_merged_by_author": 1,
         "closed": 0,
         "total": 1
     },
