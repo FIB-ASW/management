@@ -1,0 +1,84 @@
+{
+    "avatars": {
+        "carlesf": "https://avatars.githubusercontent.com/u/1541122?v=4",
+        "professor-asw": "https://avatars.githubusercontent.com/u/126955320?v=4"
+    },
+    "commits": {
+        "carlesf": 0,
+        "professor-asw": 0,
+        "anonymous": 8,
+        "total": 8
+    },
+    "modified_lines": {
+        "carlesf": {
+            "additions": 0,
+            "deletions": 0,
+            "modified": 0
+        },
+        "professor-asw": {
+            "additions": 0,
+            "deletions": 0,
+            "modified": 0
+        },
+        "total": {
+            "additions": 0,
+            "deletions": 0,
+            "modified": 0
+        }
+    },
+    "commit_streak": {
+        "carlesf": 0,
+        "professor-asw": 0
+    },
+    "commit_merges": 0,
+    "longest_commit_streak_per_user": {
+        "carlesf": 0,
+        "professor-asw": 0
+    },
+    "issues": {
+        "assigned": {
+            "carlesf": 0,
+            "professor-asw": 0,
+            "non_assigned": 1
+        },
+        "closed": {
+            "carlesf": 0,
+            "professor-asw": 0
+        },
+        "have_pull_request": 0,
+        "assignee_is_pr_author": 0,
+        "total_closed": 0,
+        "total": 1
+    },
+    "pull_requests": {
+        "created": {
+            "carlesf": 0,
+            "professor-asw": 0
+        },
+        "merged_per_member": {
+            "carlesf": 0,
+            "professor-asw": 0
+        },
+        "merged": 0,
+        "not_merged_by_author": 0,
+        "closed": 0,
+        "total": 0
+    },
+    "project": {
+        "assigned_per_member": {
+            "carlesf": 0,
+            "professor-asw": 0
+        },
+        "in_progress_per_member": {
+            "carlesf": 0,
+            "professor-asw": 0
+        },
+        "done_per_member": {
+            "carlesf": 0,
+            "professor-asw": 0
+        },
+        "in_progress": 0,
+        "done": 0,
+        "total": 0
+    }
+}
