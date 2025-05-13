@@ -5,9 +5,9 @@
     },
     "commits": {
         "carlesf": 0,
-        "professor-asw": 3,
+        "professor-asw": 4,
         "anonymous": 11,
-        "total": 14
+        "total": 15
     },
     "modified_lines": {
         "carlesf": {
@@ -16,14 +16,14 @@
             "modified": 0
         },
         "professor-asw": {
-            "additions": 36,
-            "deletions": 1,
-            "modified": 37
+            "additions": 39,
+            "deletions": 3,
+            "modified": 42
         },
         "total": {
-            "additions": 36,
-            "deletions": 1,
-            "modified": 37
+            "additions": 39,
+            "deletions": 3,
+            "modified": 42
         }
     },
     "commit_streak": {
