@@ -58,7 +58,7 @@ class GetCommits(APInterface):
                 for commit_data in commits_data_graphql:
                     commit = commit_data['node']
                     sha = commit['oid']
-                    autor = commit['author']['name']
+                    autor = commit['author']['login']
                     additions = commit['additions']
                     deletions = commit['deletions']
                     date =  datetime.strptime(commit['committedDate'], "%Y-%m-%dT%H:%M:%SZ").strftime("%Y-%m-%d")
