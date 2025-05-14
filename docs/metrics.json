@@ -4,16 +4,16 @@
         "professor-asw": "https://avatars.githubusercontent.com/u/126955320?v=4"
     },
     "commits": {
-        "carlesf": 10,
+        "carlesf": 11,
         "professor-asw": 6,
         "anonymous": 6,
-        "total": 22
+        "total": 23
     },
     "modified_lines": {
         "carlesf": {
-            "additions": 44,
-            "deletions": 7,
-            "modified": 51
+            "additions": 45,
+            "deletions": 8,
+            "modified": 53
         },
         "professor-asw": {
             "additions": 41,
@@ -21,9 +21,9 @@
             "modified": 46
         },
         "total": {
-            "additions": 85,
-            "deletions": 12,
-            "modified": 97
+            "additions": 86,
+            "deletions": 13,
+            "modified": 99
         }
     },
     "commit_streak": {
