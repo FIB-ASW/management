@@ -24,7 +24,7 @@ class GetCommits(APInterface):
                             node {
                                 oid  
                                 author {
-                                name 
+                                login 
                                 }
                                 additions  
                                 deletions
