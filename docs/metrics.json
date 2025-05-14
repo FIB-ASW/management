@@ -5,9 +5,9 @@
     },
     "commits": {
         "carlesf": 0,
-        "professor-asw": 5,
+        "professor-asw": 6,
         "anonymous": 14,
-        "total": 19
+        "total": 20
     },
     "modified_lines": {
         "carlesf": {
@@ -16,24 +16,24 @@
             "modified": 0
         },
         "professor-asw": {
-            "additions": 40,
-            "deletions": 4,
-            "modified": 44
+            "additions": 41,
+            "deletions": 5,
+            "modified": 46
         },
         "total": {
-            "additions": 40,
-            "deletions": 4,
-            "modified": 44
+            "additions": 41,
+            "deletions": 5,
+            "modified": 46
         }
     },
     "commit_streak": {
         "carlesf": 0,
-        "professor-asw": 1
+        "professor-asw": 2
     },
     "commit_merges": 1,
     "longest_commit_streak_per_user": {
         "carlesf": 0,
-        "professor-asw": 1
+        "professor-asw": 2
     },
     "issues": {
         "assigned": {
