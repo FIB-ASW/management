@@ -39,7 +39,7 @@
         "assigned": {
             "carlesf": 0,
             "professor-asw": 0,
-            "non_assigned": 3
+            "non_assigned": 4
         },
         "closed": {
             "carlesf": 0,
@@ -48,7 +48,7 @@
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
         "total_closed": 0,
-        "total": 3
+        "total": 4
     },
     "pull_requests": {
         "created": {
