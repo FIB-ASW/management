@@ -3358,5 +3358,85 @@
             "done": 0,
             "total": 0
         }
+    },
+    "2025-06-24": {
+        "commits": {
+            "carlesf": 11,
+            "professor-asw": 6,
+            "anonymous": 6,
+            "total": 23
+        },
+        "modified_lines": {
+            "carlesf": {
+                "additions": 45,
+                "deletions": 8,
+                "modified": 53
+            },
+            "professor-asw": {
+                "additions": 41,
+                "deletions": 5,
+                "modified": 46
+            },
+            "total": {
+                "additions": 86,
+                "deletions": 13,
+                "modified": 99
+            }
+        },
+        "commit_streak": {
+            "carlesf": 0,
+            "professor-asw": 0
+        },
+        "commit_merges": 1,
+        "longest_commit_streak_per_user": {
+            "carlesf": 2,
+            "professor-asw": 2
+        },
+        "issues": {
+            "assigned": {
+                "carlesf": 0,
+                "professor-asw": 0,
+                "non_assigned": 5
+            },
+            "closed": {
+                "carlesf": 0,
+                "professor-asw": 0
+            },
+            "have_pull_request": 0,
+            "assignee_is_pr_author": 0,
+            "total_closed": 0,
+            "total": 5
+        },
+        "pull_requests": {
+            "created": {
+                "carlesf": 1,
+                "professor-asw": 0
+            },
+            "merged_per_member": {
+                "carlesf": 0,
+                "professor-asw": 1
+            },
+            "merged": 1,
+            "not_merged_by_author": 1,
+            "closed": 0,
+            "total": 1
+        },
+        "project": {
+            "assigned_per_member": {
+                "carlesf": 0,
+                "professor-asw": 0
+            },
+            "in_progress_per_member": {
+                "carlesf": 0,
+                "professor-asw": 0
+            },
+            "done_per_member": {
+                "carlesf": 0,
+                "professor-asw": 0
+            },
+            "in_progress": 0,
+            "done": 0,
+            "total": 0
+        }
     }
 }
